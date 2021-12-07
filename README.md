@@ -139,5 +139,5 @@ This is a very sideways project for me, I might have little time to maintain thi
 
 If this script helped you make profits or you simply want to support, feel free to donate to these addresses:
 
-- Ethereum ERC20：0xa4AaDceA7c1b0B23978fbea24faA097beF9335B1
-- BSC BEP20：0xa4AaDceA7c1b0B23978fbea24faA097beF9335B1
+- Ethereum ERC20：0xd39F7FD20522085BC6817c60e0A180Ae2faE9ab8
+- BSC BEP20：0xd39F7FD20522085BC6817c60e0A180Ae2faE9ab8
